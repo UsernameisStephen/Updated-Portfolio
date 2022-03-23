@@ -9,12 +9,26 @@ body {
     width: 10rem;
     height: 10rem;
     border-radius: 50%;
+    margin: 1rem;
 }
 
-.intro {
-    position: relative;
+.name-title {
+    position: fixed;
     left: 0;
     width: 33.33%;
     height: 100%;
     background-color: rgb(12, 162, 162);
+}
+
+.full-height {
+    height: 100%;
+}
+
+@media (max-width: 768px) {
+    .intro{
+        height: 30vh;
+        margin-bottom: 0;
+        position: relative;
+        width: 100%;
+    }
 }

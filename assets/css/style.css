@@ -24,8 +24,13 @@ body {
     height: 100%;
 }
 
+section {
+    margin: 5rem;
+    font-size: 1.2rem;
+}
+
 @media (max-width: 768px) {
-    .intro{
+    .name-title{
         height: 30vh;
         margin-bottom: 0;
         position: relative;

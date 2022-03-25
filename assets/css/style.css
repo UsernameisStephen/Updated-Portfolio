@@ -17,7 +17,7 @@ body {
     left: 0;
     width: 33.33%;
     height: 100%;
-    background-color: rgb(12, 162, 162);
+    /* background-color: rgb(12, 162, 162); */
 }
 
 .full-height {
@@ -27,6 +27,11 @@ body {
 section {
     margin: 5rem;
     font-size: 1.2rem;
+}
+
+.col-md-6:hover {
+    transform: scale(1.1);
+    cursor: pointer;
 }
 
 

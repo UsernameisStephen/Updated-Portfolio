@@ -23,8 +23,7 @@ Your updated portfolio should:
 
 # Screenshot of Final Page
 
-![image](https://user-images.githubusercontent.com/100049940/160057070-295ca6f1-8020-4acd-a287-fff1e74e5adc.png)
-
+<img width="1279" alt="Screen Shot 2022-04-21 at 8 43 19 PM" src="https://user-images.githubusercontent.com/100049940/164580068-0af7181c-fc9d-433c-9c51-14dbfd8c1141.png">
 
 # Link to Website
 https://usernameisstephen.github.io/Updated-Portfolio/
